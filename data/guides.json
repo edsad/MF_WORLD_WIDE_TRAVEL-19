@@ -1,0 +1,53 @@
+{
+  "guides": [{
+    "id" : 100,
+    "type": "city",
+    "title": "Paris on $10 a Day",
+    "price": 18.99
+  }, {
+    "id" : 101,
+    "type": "city",
+    "title": "Venice: Canals and Stuff",
+    "price": 14.50
+  }, {
+    "id" : 102,
+    "type": "city",
+    "title": "Visiting Hoboken: Why?",
+    "price": 1.25
+  }, {
+    "id" : 103,
+    "type": "country",
+    "title": "Touring Brazil's Empty Olympic Stadiums",
+    "price": 13.50
+  }, {
+    "id" : 104,
+    "type": "country",
+    "title": "'Murica: Only Commies Travel Abroad",
+    "price": 20.00
+  }, {
+    "id" : 105,
+    "type": "country",
+    "title": "Australia: Every Animal Here Can Kill You",
+    "price": 18.00
+  }, {
+    "id" : 106,
+    "type": "region",
+    "title": "Backpacking Europe on Two Showers a Week",
+    "price": 12.48
+  }, {
+    "id" : 107,
+    "type": "region",
+    "title": "Rainforests of Cental America",
+    "price": 15.00
+  }, {
+    "id" : 108,
+    "type": "country",
+    "title": "USA",
+    "price": 22.95
+  }, {
+    "id" : 109,
+    "type": "region",
+    "title": "The Evil Genius Guide to Taking over the Tri City Area",
+    "price": 13.49
+  }]
+}

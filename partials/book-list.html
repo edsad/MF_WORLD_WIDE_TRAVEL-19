@@ -1,0 +1,12 @@
+<article class="product-list">
+
+  <header><h2>List of Books</h2></header>
+  <section>
+    <div id="center">
+      <div ng-repeat="item in guides">
+        <p>{{ item.title }}</p> <p>Type: {{ item.type }}</p> <p>Price: ${{ item.price }}</p>
+      </div>
+    </div>
+  </section>
+
+</article>
